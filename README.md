@@ -1,6 +1,6 @@
 # 🎓 My Tailwind Blog
 
-This is a study project
+This is a study project with Tailwind
 
 ## 📌 Technologies
 
